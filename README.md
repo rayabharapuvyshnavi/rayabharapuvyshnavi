@@ -13,7 +13,7 @@ My experience spans backend engineering, distributed systems, cloud computing, a
 
 ## Education
 
-- **Boston University:** Master's in Computer Science & AI (In Progress)
+- **Boston University:** Master's in Computer Science & AI (Currently pursuing - first semester)
 - **KMIT, JNTU:** Bachelor's in Computer Science
 
 ## Technologies & Interests
