@@ -35,7 +35,7 @@ One idea I'm exploring is an AI-powered tailoring assistant that helps beginners
 Deepening my understanding of machine learning, LLMs, and AI agent development, with an interest in bringing AI into practical applications.
 
 ## Connect
-
+- Email: rayabharapuvyshnavi@gmail.com
 - [LinkedIn](https://linkedin.com/in/vyshnavi-rayabharapu212)
 - [LeetCode](https://leetcode.com/rvyshnavi212)
-- Email: rayabharapuvyshnavi@gmail.com
+- [My Resume](https://github.com/rayabharapuvyshnavi/resume/blob/main/Vyshnavi_Rayabharapu_Resume.pdf)
